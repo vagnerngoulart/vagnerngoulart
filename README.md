@@ -31,6 +31,10 @@ Sou um apaixonado por desenvolvimento de software, com uma trajetória profissio
 ![Django](https://img.shields.io/badge/-Django-%23092E20?style=for-the-badge&logo=django&logoColor=white)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)[![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)[![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 
+
+- **Mobile:** <br>
+  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) [![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+
 - **Databases:**<br>
   [![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sql&logoColor=white)](https://www.w3schools.com/sql/)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 

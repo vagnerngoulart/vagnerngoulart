@@ -89,7 +89,7 @@ Sou um apaixonado por desenvolvimento de software, com uma trajetória profissio
 ## 🌐 Socials:
 [![Resume/CV](https://img.shields.io/badge/RESUME-CV-red?style=for-the-badge&logo=resume&logoColor=white)](https://gouarts.com/profile/curriculum/curriculum.pdf) 
 [![WEBPAGE](https://img.shields.io/badge/-HOMEPAGE-blue?style=for-the-badge&logo=codechef&logoColor=white)](https://gouarts.com) 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vagnerngoulart/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vagner-nunes/)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gouarts/)
 
 ### 🌐 Contato

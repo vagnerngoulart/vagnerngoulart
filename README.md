@@ -42,7 +42,12 @@ Sou um apaixonado por desenvolvimento de software, com uma trajetória profissio
 
 
 - **Cloud:**<br>
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+[![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+[![KingHost](https://img.shields.io/badge/KingHost-4E91A2?style=for-the-badge&logo=kinghost&logoColor=white)](https://www.kinghost.com.br/)
+[![Locaweb](https://img.shields.io/badge/Locaweb-00A7B5?style=for-the-badge&logo=locaweb&logoColor=white)](https://www.locaweb.com.br/)
+[![ISH](https://img.shields.io/badge/ISH-1F287C?style=for-the-badge&logo=ish&logoColor=white)](https://www.ish.com.br/)
+[![Vultr](https://img.shields.io/badge/Vultr-007BFC?style=for-the-badge&logo=vultr&logoColor=white)](https://www.vultr.com/)
 
 - **Methodologies:**<br>
   [![Agile](https://img.shields.io/badge/agile-%2300C4CC.svg?style=for-the-badge&logo=agile&logoColor=white)](https://agilemanifesto.org/)[![KANBAN](https://img.shields.io/badge/kanban-%23339933.svg?style=for-the-badge&logo=kanban&logoColor=white)](https://www.atlassian.com/agile/kanban)[![Scrum](https://img.shields.io/badge/scrum-%2300C4CC.svg?style=for-the-badge&logo=scrum&logoColor=white)](https://www.scrum.org/)

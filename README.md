@@ -2,7 +2,22 @@
 
 ## 💻 Engenheiro de Software na Accenture Brasil
 
-Sou um apaixonado por desenvolvimento de software, com uma trajetória profissional diversificada e um forte foco em tecnologias de ponta.
+Sou um desenvolvedor apaixonado por tecnologia, com uma trajetória diversificada e uma forte atuação em sistemas financeiros e governamentais. Ao longo da minha carreira, trabalhei com diversas linguagens e frameworks, sempre buscando soluções eficientes e inovadoras.
+
+🚀 Experiência e Especializações
+Desenvolvimento Full Stack com Spring Boot, Angular e .NET.
+Otimização de performance e refatoração de código para sistemas de grande porte.
+Banco de dados: SQL, MongoDB e otimização de queries.
+Integrações de sistemas via APIs REST e microservices.
+OpenLayers para aplicações baseadas em mapas geoespaciais.
+Geração de PDFs dinâmica em Angular com html2canvas e jsPDF.
+📊 Data Science e Análise de Dados
+Além do desenvolvimento de software, tenho um grande interesse em Data Science, contando com uma pós-graduação na área. Meu foco inclui:
+
+Análise de dados e modelagem preditiva.
+Machine Learning e estatística aplicada.
+Manipulação e visualização de dados com Python e bibliotecas especializadas.
+Sempre em busca de novos desafios, gosto de explorar tecnologias emergentes, otimizar processos e contribuir para soluções impactantes.
 
 ### 🛠️ Tecnologias e Ferramentas
 
@@ -17,10 +32,10 @@ Sou um apaixonado por desenvolvimento de software, com uma trajetória profissio
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 
 ### 🌟 Sobre Mim
-
-- 🚀 Atualmente trabalhando em projetos inovadores na Accenture Brasil.
-- 🌍 Experiência significativa com sistemas financeiros e governamentais.
-- 📚 Apaixonado por aprender e aplicar novas tecnologias.
+🚀 Atualmente atuando em projetos inovadores na Accenture Brasil.
+🌍 Experiência sólida em sistemas financeiros e governamentais.
+📚 Apaixonado por tecnologia, sempre buscando aprender e aplicar novas soluções.
+📊 Interesse e conhecimento em Data Science, com pós-graduação na área.
 
 
 ## 🌐 Skills and Expertise:
@@ -36,6 +51,8 @@ Sou um apaixonado por desenvolvimento de software, com uma trajetória profissio
 ![Delphi](https://img.shields.io/badge/Delphi-EF2D56?style=for-the-badge&logo=delphi&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 - **Mobile:** <br>
   ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) [![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)

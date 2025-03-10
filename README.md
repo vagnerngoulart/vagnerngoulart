@@ -33,8 +33,11 @@ Sempre em busca de novos desafios, gosto de explorar tecnologias emergentes, oti
 
 ### 🌟 Sobre Mim
 🚀 Atualmente atuando em projetos inovadores na Accenture Brasil.
+
 🌍 Experiência sólida em sistemas financeiros e governamentais.
+
 📚 Apaixonado por tecnologia, sempre buscando aprender e aplicar novas soluções.
+
 📊 Interesse e conhecimento em Data Science, com pós-graduação na área.
 
 

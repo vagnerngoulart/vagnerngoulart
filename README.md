@@ -1,6 +1,6 @@
 # Olá, Mundo! 👋 Eu sou Vagner Nunes Goulart
 
-## 💻 Engenheiro de Software na Accenture Brasil
+## 💻 Analista Desenvolvedor
 
 Sou um desenvolvedor apaixonado por tecnologia, com uma trajetória diversificada e uma forte atuação em sistemas financeiros e governamentais. Ao longo da minha carreira, trabalhei com diversas linguagens e frameworks, sempre buscando soluções eficientes e inovadoras.
 

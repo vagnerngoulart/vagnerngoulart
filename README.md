@@ -32,7 +32,7 @@ Sempre em busca de novos desafios, gosto de explorar tecnologias emergentes, oti
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 
 ### 🌟 Sobre Mim
-🚀 Atualmente atuando em projetos inovadores na Accenture Brasil.
+🚀 Atualmente esto a procura de uma nova oportunidade.
 
 🌍 Experiência sólida em sistemas financeiros e governamentais.
 
